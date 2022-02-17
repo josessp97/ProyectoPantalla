@@ -34,7 +34,7 @@
                             <!--En este div van las noticias recientes -->
                             <div class="col-8">
                                 <h3 class="text-center ">RECIENTES</h3>
-                                <p>COCK</p> 
+                                <p>DING</p> 
                                     
                             </div>
                             <div class="col-1">
@@ -108,7 +108,7 @@
                                 <div class="col-3">
                               
                                 <h3 class="text-center ">NO RECIENTES</h3>
-                                    <p>PUSSY</p>
+                                    <p>DONG</p>
                                 </div> 
                                 
                                 
